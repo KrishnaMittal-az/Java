@@ -17,3 +17,4 @@ public class Dec_to_Bin {
     }
 
 }
+ 
