@@ -12,7 +12,7 @@ public class Typecasting {
         System.out.println(b1);
         b = 2;
         int i = 17;
-
+        System.out.println(i);
         i = b;
         b = -5;
         i = b; 
