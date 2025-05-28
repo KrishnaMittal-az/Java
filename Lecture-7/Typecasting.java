@@ -16,7 +16,7 @@ public class Typecasting {
         i = b;
         b = -5;
         i = b; 
-    }
+    } 
 
 }
 
